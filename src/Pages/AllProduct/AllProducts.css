@@ -1,0 +1,24 @@
+.card{
+    border-radius: 20px;
+}
+
+body{
+    background-color: rgb(245, 239, 239);
+}
+
+.card:hover{
+    transform: translateY(-14px);
+    transition: transform .3s;
+    border: 2px solid #fb3531;
+}
+
+.info{
+    color: #686464;
+}
+.cost{
+    background-color: #fb3531;
+}
+
+.price{
+    color: #f22b07;
+}

@@ -1,0 +1,15 @@
+.bg-customColor{
+    background-color: #1ba370;
+}
+
+.c-li:hover{
+    color: #e3e1da;
+}
+
+.user-name a{
+  text-decoration: none;
+}
+
+.login-btn{
+    background-color: #fb3531;
+}

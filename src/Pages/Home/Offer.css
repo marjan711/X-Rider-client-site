@@ -1,0 +1,5 @@
+.custom-ban:hover{
+    transform: translateY(-14px);
+    transition: transform .3s;
+    border: 2px solid #1ba370;;
+}
